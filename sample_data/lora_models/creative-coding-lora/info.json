@@ -1,0 +1,11 @@
+{
+  "base_model": "decapoda-research/llama-7b-hf",
+  "prompt_template": "alpaca",
+  "dataset_name": "training_datas.json",
+  "dataset_rows": 7041,
+  "trained_on_machine": "0525f5c6f404",
+  "timestamp": 1682922865.4002092,
+  "continued_from_model": "mattock-entermise-2023-05-01-00-50-52",
+  "continued_from_checkpoint": "checkpoint-4250",
+  "tuner_version": "dfc944da"
+}
